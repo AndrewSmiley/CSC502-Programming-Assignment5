@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		941668CF1CD0310A0081AA1A /* CSC502-Programming-Assignment-5 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CSC502-Programming-Assignment-5"; sourceTree = BUILT_PRODUCTS_DIR; };
 		941668D21CD0310A0081AA1A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		941668D91CD031A80081AA1A /* CatalogData.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = CatalogData.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				941668D21CD0310A0081AA1A /* main.cpp */,
+				941668D91CD031A80081AA1A /* CatalogData.txt */,
 			);
 			path = "CSC502-Programming-Assignment-5";
 			sourceTree = "<group>";
